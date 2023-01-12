@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Ana Moslim</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Zeyad Emad</string>
+    <string name="nav_header_subtitle">Zeyademad1z234@gmail.com</string>
+    <string name="nav_header_desc">Temporary Header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_quran">القران الكريم</string>
+    <string name="menu_azkar">أذكار</string>
+    <string name="menu_pray">مواقيت الصلاة</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="to">إلي</string>
+
+    <string name="sora">سورة</string>
+    <string name="jozz">جزء</string>
+    <string name="page">صفحة</string>
+    <string name="from_page">من </string>
+    <string name="searchHint">إبحث عن الآية التي تريدها</string>
+
+</resources>
